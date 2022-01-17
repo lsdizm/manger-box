@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ga6L1Wb/wiQ0rHSnBrLhx00PZ0cNNPH1MjSofS7aFcOvdSjE//tMYwS6YfjHzbqdUjn3u2N85a8HoDKa7ggP/A==",
+  "dgSpecHash": "pjdmO5Ra+c7RjkDmV+0nxXT+u7w02GfTFBmH1hJTOKNtu/ILGcRzmcH5oQ0NuMR4Zg4DDNTyG47mRF0LlsRNtA==",
   "success": true,
-  "projectFilePath": "/home/ubuntu/source/MangerBox/MangerBox.csproj",
+  "projectFilePath": "/home/ubuntu/source/manger-box/MangerBox.csproj",
   "expectedPackageFiles": [
     "/home/ubuntu/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/ubuntu/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

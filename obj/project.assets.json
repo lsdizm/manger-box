@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ubuntu/source/MangerBox/MangerBox.csproj",
+      "projectUniqueName": "/home/ubuntu/source/manger-box/MangerBox.csproj",
       "projectName": "MangerBox",
-      "projectPath": "/home/ubuntu/source/MangerBox/MangerBox.csproj",
+      "projectPath": "/home/ubuntu/source/manger-box/MangerBox.csproj",
       "packagesPath": "/home/ubuntu/.nuget/packages/",
-      "outputPath": "/home/ubuntu/source/MangerBox/obj/",
+      "outputPath": "/home/ubuntu/source/manger-box/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ubuntu/.nuget/NuGet/NuGet.Config"
