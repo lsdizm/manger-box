@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using MangerBox.ORM;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
@@ -17,13 +18,12 @@ namespace MangerBox.Controllers
         }
 
         [HttpGet]
-        public dynamic Get()
+        public async Task<IActionResult> Get()
         {
-            return new
-            {
-                TypeName = "public-data",
-                DateTime = DateTime.Now,                
-            };
+
+            var repositories = new Repositories();
+            var result = await repositories.GetTest().ConfigureAwait(false);
+            return Ok(result);
         }
 
 

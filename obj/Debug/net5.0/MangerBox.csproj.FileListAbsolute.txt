@@ -50,8 +50,15 @@
 /home/ubuntu/source/manger-box/obj/Debug/net5.0/staticwebassets/MangerBox.StaticWebAssets.xml
 /home/ubuntu/source/manger-box/obj/Debug/net5.0/scopedcss/bundle/MangerBox.styles.css
 /home/ubuntu/source/manger-box/obj/Debug/net5.0/MangerBox.RazorTargetAssemblyInfo.cache
-/home/ubuntu/source/manger-box/obj/Debug/net5.0/MangerBox.csproj.CopyComplete
 /home/ubuntu/source/manger-box/obj/Debug/net5.0/MangerBox.dll
 /home/ubuntu/source/manger-box/obj/Debug/net5.0/ref/MangerBox.dll
 /home/ubuntu/source/manger-box/obj/Debug/net5.0/MangerBox.pdb
 /home/ubuntu/source/manger-box/obj/Debug/net5.0/MangerBox.genruntimeconfig.cache
+/home/ubuntu/source/manger-box/bin/Debug/net5.0/Dapper.dll
+/home/ubuntu/source/manger-box/obj/Debug/net5.0/MangerBox.csproj.CopyComplete
+/home/ubuntu/source/manger-box/bin/Debug/net5.0/System.Data.SqlClient.dll
+/home/ubuntu/source/manger-box/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+/home/ubuntu/source/manger-box/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+/home/ubuntu/source/manger-box/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+/home/ubuntu/source/manger-box/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/ubuntu/source/manger-box/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
